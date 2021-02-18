@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Sumit Kumar Blogs (Basically a daily Dairy)
 
-You can use the [editor on GitHub](https://github.com/smth9807/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Little about me
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**Name :** 
+Sumit Kumar
+**Age :**
+23
+**Height :**
+176 cm
+
+**Weight :**
+95 Kg(Thu, 18 Feb)
+
 
 - Bulleted
 - List
